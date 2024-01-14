@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\HappyTickets\HappyTickets\bin\Debug\net7.0\HappyTickets.exe
+C:\Users\User\source\repos\HappyTickets\HappyTickets\bin\Debug\net7.0\HappyTickets.deps.json
+C:\Users\User\source\repos\HappyTickets\HappyTickets\bin\Debug\net7.0\HappyTickets.runtimeconfig.json
+C:\Users\User\source\repos\HappyTickets\HappyTickets\bin\Debug\net7.0\HappyTickets.dll
+C:\Users\User\source\repos\HappyTickets\HappyTickets\bin\Debug\net7.0\HappyTickets.pdb
+C:\Users\User\source\repos\HappyTickets\HappyTickets\obj\Debug\net7.0\HappyTickets.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HappyTickets\HappyTickets\obj\Debug\net7.0\HappyTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HappyTickets\HappyTickets\obj\Debug\net7.0\HappyTickets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HappyTickets\HappyTickets\obj\Debug\net7.0\HappyTickets.AssemblyInfo.cs
+C:\Users\User\source\repos\HappyTickets\HappyTickets\obj\Debug\net7.0\HappyTickets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HappyTickets\HappyTickets\obj\Debug\net7.0\HappyTickets.dll
+C:\Users\User\source\repos\HappyTickets\HappyTickets\obj\Debug\net7.0\refint\HappyTickets.dll
+C:\Users\User\source\repos\HappyTickets\HappyTickets\obj\Debug\net7.0\HappyTickets.pdb
+C:\Users\User\source\repos\HappyTickets\HappyTickets\obj\Debug\net7.0\HappyTickets.genruntimeconfig.cache
+C:\Users\User\source\repos\HappyTickets\HappyTickets\obj\Debug\net7.0\ref\HappyTickets.dll
