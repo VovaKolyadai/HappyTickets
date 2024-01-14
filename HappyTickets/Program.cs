@@ -52,15 +52,15 @@
                         secSum += int.Parse(ticketsSecHalfArray[j][k].ToString());
 
                     }
-                    //display on console all possible HappyTickets
-                    if (curNumb == secSum) { Console.WriteLine($"{ticketsFirstHalfArray[i]}{ticketsSecHalfArray[j]} is Happy Ticket!"); }
+                    //happyTicketsAmount
+                    if (curNumb == secSum) { happyTicketsAmount++; }
 
 
                 }
 
             }
 
-
+            Console.WriteLine($"{happyTicketsAmount} is Happy Ticket!");
 
         }
     }
